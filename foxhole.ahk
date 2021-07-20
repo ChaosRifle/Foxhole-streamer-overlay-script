@@ -7,7 +7,7 @@
 
                           ; this name must match the games window title. EX: creating a new file with Notepad.exe will result in "Untitled - Notepad" as its name. That is what you would put here to update this
                           ; so to update the line below should read: "#IfWinActive Untitled - Notepad" if you wanted it to work for notepad.
-#IfWinActive Untitled - Notepad                       ; all code below this will require that you have the a window by this name as your active window to work, until otherwise specified (ln 63)
+#IfWinActive War                       ; all code below this will require that you have the a window by this name as your active window to work, until otherwise specified (ln 63)
 
 
 
